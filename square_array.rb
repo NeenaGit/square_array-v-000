@@ -5,7 +5,7 @@ def square_array(array)
 end
 
 # empty_array= []
-# 
+#
 # new_array = empty_array << square_array
 
 
