@@ -1,7 +1,7 @@
 
 
 def square_array(array)
-  array.each { | num | num ** 2 }
+  array.each_with_index { | num, index | num ** 2 }
 end
 
 
